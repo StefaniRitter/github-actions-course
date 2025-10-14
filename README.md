@@ -1,2 +1,3 @@
-# github-actions-course
-Repositório para exercícios do curso Github Actions
+# GitHub Actions Course 
+
+Repository for exercises from the Github Actions course
